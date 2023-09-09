@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"iHvPFN\":[[\"messagesCount\",\"plural\",{\"one\":[\"There's \",\"#\",\" message in your inbox.\"],\"other\":[\"There are \",\"#\",\" messages in your inbox.\"]}]],\"ItXLVU\":[\"Last login on \",[\"0\"],\".\"],\"8bWV5m\":\"Message Inbox\",\"TJ42n8\":\"See all <0>unread messages </0>or<1>mark them</1> as read.\"}")};
